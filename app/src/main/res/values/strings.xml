@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">List_data_test</string>
+    
+    <item name="string_data" type="string">
+        <string one = "list_one">List One</string>
+        <string one = "list_two">List Two</string>
+        <string one = "list_three">List Three</string>
+        <string one = "list_four">List Four</string>
+        <string one = "list_five">List Five</string>
+        <string one = "list_six">List Six</string>
+    </item>
+</resources>
